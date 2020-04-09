@@ -6,4 +6,4 @@ applications:
   instances: 1
   # Currently defaults to PWS
   domain: cfapps.io
-  path: pre-built/spring-music-1.0.0.war
+  path: pre-built/spring-music.war
